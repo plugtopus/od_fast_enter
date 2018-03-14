@@ -1,0 +1,20 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "core/bg.js" ]
+   },
+   "browser_action": {
+      "default_icon": "img/128.png"
+   },
+   "icons": {
+      "128": "img/128.png"
+   },
+   "default_locale": "ru",
+   "description": "__MSG_desc__",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2018.3.14.2",
+   "author": "Plugtopus Agency",
+   "homepage_url": "https://plugtopus.agency"
+}
